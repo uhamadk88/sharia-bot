@@ -23,7 +23,7 @@ def keep_alive():
 
 # --- ٢. زانیارییەکانی بوت و مامۆستا ---
 # دڵنیابە ئەم تۆکنە نوێیەیە کە لە BotFather وەرتگرتووە
-BOT_TOKEN = '8760836499:AAECxSleP5gQWvZkGA7Ne_gu8yAxmzDTumM'
+BOT_TOKEN = '8760836499:AAHZMQ_8S-vt1QVo-fdR92vZt7vJJPBZ7BA'
 TEACHER_ID = 733089564
 bot = telebot.TeleBot(BOT_TOKEN)
 
