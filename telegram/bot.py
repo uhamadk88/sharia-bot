@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 # --- ڕێکخستنە سەرەتاییەکان ---
-BOT_TOKEN = '8760836499:AAHom2IbcEGEYse-pOzxhIwq6KC5NaYu38g'
+BOT_TOKEN = '8760836499:AAEum0HCCxPduCL3PD_kKZFS0kN1vJCh444'
 TEACHER_ID = 733089564
 
 bot = telebot.TeleBot(BOT_TOKEN)
